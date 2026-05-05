@@ -1,5 +1,4 @@
 # Bibek Limbu
-
 **Computer Engineer · Data Science & Machine Learning**  
 Kathmandu, Nepal
 
@@ -9,11 +8,11 @@ I turn raw data into insight — cleaning, analyzing, modeling, and visualizing 
 
 ---
 
-### Stack
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tagyera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Bibek Limbu](https://www.linkedin.com/in/bibek-limbu-445791213/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibeklimbu036@gmail.com) 
 
-```
-Python · SQL · Data Visualization · Statistical Analysis
-```
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -30,18 +29,10 @@ Python · SQL · Data Visualization · Statistical Analysis
 
 ---
 
-### Certifications
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tagyera&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tagyera&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tagyera&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Google Data Analytics Professional Certificate — *2025*
-
----
-
-### Education
-
-B.E. Computer Engineering — Purwanchal Campus, IOE · 2021–2025
-
----
-
-### Connect
-
-[bibeklimbu036@gmail.com](mailto:bibeklimbu036@gmail.com) · [github.com/tagyera](https://github.com/tagyera)
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tagyera&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
