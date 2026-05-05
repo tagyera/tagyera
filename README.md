@@ -3,6 +3,7 @@
 Kathmandu, Nepal
 
 
+---
 ## About Me:
 I turn raw data into insight — cleaning, analyzing, modeling, and visualizing across the full analytics pipeline. Currently building toward machine learning while sharpening my foundation in Python and SQL.
 
@@ -30,7 +31,7 @@ I turn raw data into insight — cleaning, analyzing, modeling, and visualizing 
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tagyera&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tagyera&theme=calm_pink&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tagyera&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tagyera&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Contributed Repo
