@@ -2,11 +2,10 @@
 **Computer Engineer · Data Science & Machine Learning**  
 Kathmandu, Nepal
 
----
 
+## About Me:
 I turn raw data into insight — cleaning, analyzing, modeling, and visualizing across the full analytics pipeline. Currently building toward machine learning while sharpening my foundation in Python and SQL.
 
----
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tagyera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-limbu-445791213/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibeklimbu036@gmail.com) 
